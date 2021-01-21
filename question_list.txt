@@ -1,0 +1,60 @@
+1. Tell me how threads in an operating system can interact with each other.
+---
+synchronized / locks
+thread pools
+
+files
+Pipes
+
+
+What is the difference between thread and process?
+---
+
+
+
+2. What is ACID in databases? +
+---
+
+What isolation levels do you know?
+
+
+---
+
+What is a normal form in RDBMS? What forms do you know?
+---
+
+
+3. Managed and unmanaged code. What the difference?
+---
+
+What the strategies of garbage collection do you know? 
+---
+
+What the strategy use Java? 
+---
+
+What the strategy use python?
+---
+
+4. Kubernetes.
+
+There are config maps and secrets. What the difference?
+---
+
+What is Ingress? 
+---
+
+How to add SSL support to kubernetes?
+---
+
+What is a service in Kubernetes?
+---
+
+What network plugins do you know?
+---
+
+Is the interaction between nodes secure?
+
+5. You wrote in your CV about 
+
+
